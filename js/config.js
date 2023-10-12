@@ -1,1 +1,1 @@
-const baseUrl = '127.0.0.1:12345';
+const baseUrl = 'be-palembang-4-production.up.railway.app';
